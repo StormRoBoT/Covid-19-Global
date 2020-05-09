@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to iOS Covid-19 Global
 
-You can use the [editor on GitHub](https://github.com/StormRoBoT/Covid-19-Global/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This application is deveoped for iOS user to track and get aware of Covid-19 cases in their country
+This application is also available in both Dark mode and Light mode. the enviroment will switch following your system setting
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Screen shot
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StormRoBoT/Covid-19-Global/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="https://ibb.co/d2sx8Sc"><img src="https://i.ibb.co/XsfMc94/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-05-10-at-02-41-33.png" alt="Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-05-10-at-02-41-33" border="0"></a>
+<a href="https://ibb.co/sQtFLBt"><img src="https://i.ibb.co/gw6Dsn6/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-05-10-at-02-41-38.png" alt="Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-05-10-at-02-41-38" border="0"></a>
+<a href="https://ibb.co/GRjhMTd"><img src="https://i.ibb.co/jDFpwR8/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-05-10-at-02-42-41.png" alt="Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-05-10-at-02-42-41" border="0"></a>
+<a href="https://ibb.co/bWWtg7X"><img src="https://i.ibb.co/5MMZW2L/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-05-10-at-02-42-44.png" alt="Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-05-10-at-02-42-44" border="0"></a><br /><a target='_blank' href='https://movieplotholes.com/x-men-origins-wolverine'>how wolverine origins should have ended</a><br />
